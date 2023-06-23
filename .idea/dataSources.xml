@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hmdp@localhost" uuid="aacaa6f1-7938-4a31-81b1-a52eddb7bb27">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hmdp</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hmdp@localhost [2]" uuid="fcfab6ce-d3fb-4c8f-868b-3d84497ce54d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hmdp</jdbc-url>
+    </data-source>
+  </component>
+</project>
