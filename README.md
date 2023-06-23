@@ -2,7 +2,9 @@
 
 ### 项目介绍
 
-仿大众点评项目，该项目为学习项目，采用了多种 Redis 的常见数据结构。
+仿大众点评项目
+
+<img src="https://typora-1314662469.cos.ap-shanghai.myqcloud.com/img/202306231923505.png" alt="image-20230623192316059" style="zoom:50%;" /><img src="https://typora-1314662469.cos.ap-shanghai.myqcloud.com/img/202306231924290.png" alt="image-20230623192414134" style="zoom:50%;" /><img src="https://typora-1314662469.cos.ap-shanghai.myqcloud.com/img/202306231925871.png" alt="image-20230623192502849" style="zoom:50%;" />
 
 实现功能：
 
